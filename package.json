@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@linaria/vite": "^4.2.4",
-    "vite": "^4.0.0"
+    "@linaria/vite": "^4.2.5",
+    "vite": "^4.0.4"
   }
 }
