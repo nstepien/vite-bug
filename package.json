@@ -11,6 +11,6 @@
   },
   "devDependencies": {
     "@linaria/vite": "^4.2.5",
-    "vite": "^4.0.4"
+    "vite": "^4.1.1"
   }
 }
