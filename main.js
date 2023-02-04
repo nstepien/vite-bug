@@ -1,6 +1,7 @@
 import { css } from '@linaria/core'
 import './style.css'
 import { setupCounter } from './counter'
+import { fontSizeClassname } from './src/deep'
 
 const myClass = css`
   color: red;
@@ -15,7 +16,7 @@ document.querySelector('#app').innerHTML = `
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
-    <p class="read-the-docs ${myClass}">
+    <p class="read-the-docs ${myClass} ${fontSizeClassname}">
       Click on the Vite logo to learn more
     </p>
   </div>
