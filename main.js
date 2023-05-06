@@ -1,3 +1,4 @@
+import 'core-js/stable';
 import { css } from '@linaria/core'
 
 const myClass = css`

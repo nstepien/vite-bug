@@ -1,4 +1,5 @@
 # Steps to reproduce
 
 1. `npm ci`
-1. `npm run dev`
+1. try `npm run build`
+1. try `npm run dev`
