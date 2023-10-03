@@ -1,4 +1,4 @@
-import 'core-js/stable';
+import 'clsx';
 import { css } from '@linaria/core'
 
 const myClass = css`
